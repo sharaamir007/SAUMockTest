@@ -11,14 +11,4 @@ A responsive web application for sharing mock test links with view counting func
 - Smooth animations
 - PHP backend for data persistence
 
-## File Structure
-mock-test-portal/
-├── index.html
-├─
-│ └── style.css
-├── 
-│ └── script.js
-├── 
-│ ├── update_views.php
-│ └── get_views.php
-└── README.md
+## W Sallam
